@@ -31,10 +31,16 @@ make a new file or simply use `example.js`
 const POSRocketValidator = require(".");
 
 POSRocketValidator("test_file.json")
-	.then((isValid) => {
-		console.log(`is valid: ${isValid ? "yes" : "no"}`);
-	})
-	.catch((error) => {
-		console.log(`ERROR: ${error.message}`);
-	});
+  .then((isValid) => {
+    console.log(`is valid: ${isValid ? "yes" : "no"}`);
+  })
+  .catch((error) => {
+    console.log(`ERROR: ${error.message}`);
+  });
+```
+
+Run it.
+
+```bash
+$ node example.js
 ```
