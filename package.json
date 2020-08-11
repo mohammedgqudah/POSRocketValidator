@@ -1,5 +1,5 @@
 {
-  "name": "POSRocketValidator",
+  "name": "pos-rocket-validator",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
