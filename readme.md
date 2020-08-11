@@ -13,7 +13,7 @@ $ node -v
 clone this repo
 
 ```bash
-$ git clone http://github.com/mohammedgqudah/POSRocketValidator.git
+$ git clone https://github.com/mohammedgqudah/POSRocketValidator.git
 $ cd POSRocketValidator
 ```
 
